@@ -1,1 +1,3 @@
 este é o meu primeiro arquivo para o github.
+
+Segunda alteração no arquivo de notas.
